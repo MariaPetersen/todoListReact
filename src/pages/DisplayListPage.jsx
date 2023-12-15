@@ -80,7 +80,7 @@ export default function DisplayListPage() {
               onClick={handleOpenInput}
               sx={{ textAlign: "center" }}
             >
-              Créer une nouvelle liste
+              Créer une nouvelle liste, test
             </Typography>
           </CardContent>
           {openInput ? (
