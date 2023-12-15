@@ -65,7 +65,7 @@ export default function DisplayListPage() {
         <Card
           sx={{
             xs: { width: "100px" },
-            width: "200px",
+            width: "201px",
             height: "200px",
             display: "flex",
             flexDirection: "column",
